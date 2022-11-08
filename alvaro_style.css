@@ -29,7 +29,7 @@ def question():
                                 <input type='text' name='fname'><br><br>
                                 <p>What is your last name?</p><br>
                                 <input type='text' name='lname'><br><br>
-                                <p>What do you think is your characteristic/s?</p><br>
+                                <p>What is your favorite foods?</p><br>
                                 <input type='text' name=how are you to day?'><br><br><br>
                                 <input type='submit' value='Submit'>
                             </form>
